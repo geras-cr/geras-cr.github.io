@@ -1,0 +1,47 @@
+#
+# Site configuration
+#
+
+name: Gerardo Contreras Ruvalcaba
+description:
+  es: "Doctorando en Derecho | Género, sexualidad y política de drogas"
+  en: "PhD candidate in Law | Gender, sexuality and drug policy"
+
+url: "https://geras-cr.github.io"
+baseurl: ""
+
+default_lang: es
+languages:
+  - es
+  - en
+
+footer-links:
+  email: g.contrerasr@uniandes.edu.co
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+# Every content page sets its own explicit `permalink:` in front matter.
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md
+  - CV_GCR_2026.docx
+  - vendor
+  - node_modules
