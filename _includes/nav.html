@@ -1,0 +1,11 @@
+{% assign t = site.data.strings[page.lang].nav %}
+{% assign u = site.data.urls[page.lang] %}
+<nav class="site-nav">
+  <a href="{{ u.about | relative_url }}" class="{% if page.ref == 'about' %}active{% endif %}">{{ t.about }}</a>
+  <a href="{{ u.publications | relative_url }}" class="{% if page.ref == 'publications' %}active{% endif %}">{{ t.publications }}</a>
+  <a href="{{ u.talks | relative_url }}" class="{% if page.ref == 'talks' %}active{% endif %}">{{ t.talks }}</a>
+  <a href="{{ u.teaching | relative_url }}" class="{% if page.ref == 'teaching' %}active{% endif %}">{{ t.teaching }}</a>
+  <a href="{{ u.cv | relative_url }}" class="{% if page.ref == 'cv' %}active{% endif %}">{{ t.cv }}</a>
+  <a href="{{ u.contact | relative_url }}" class="{% if page.ref == 'contact' %}active{% endif %}">{{ t.contact }}</a>
+  <a href="{{ page.alt_url | relative_url }}" class="lang-switch">{{ site.data.strings[page.lang].lang_switch }}</a>
+</nav>

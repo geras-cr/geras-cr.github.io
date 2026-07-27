@@ -1,0 +1,7 @@
+{% assign u = site.data.urls[page.lang] %}
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="{{ u.about | relative_url }}">{{ site.name }}</a>
+    {% include nav.html %}
+  </div>
+</header>
