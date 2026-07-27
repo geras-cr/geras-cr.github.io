@@ -1,0 +1,75 @@
+---
+layout: default
+---
+{% assign s = site.data.strings[page.lang] %}
+{% assign cs = s.cv %}
+<article class="page cv-page">
+  <h1>{{ page.title }}</h1>
+  <p class="cv-download">
+    <a class="button" href="{{ '/assets/cv/Gerardo-Contreras-Ruvalcaba-CV.pdf' | relative_url }}">{{ s.download_cv }}</a>
+  </p>
+
+  {{ content }}
+
+  <section class="cv-section">
+    <h2>{{ cs.education }}</h2>
+    <ul class="cv-entries">
+      {% for e in site.data.cv.education %}
+      <li>
+        <strong>{{ e.institution }}</strong><br>
+        {{ e.degree }} <span class="dates">{{ e.dates }}</span>
+        {% if e.advisor %}<br><em>{{ cs.advisor }}: {{ e.advisor }}</em>{% endif %}
+        {% if e.notes %}
+        <ul class="cv-notes">
+          {% for n in e.notes %}<li>{{ n }}</li>{% endfor %}
+        </ul>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2>{{ cs.experience }}</h2>
+    <ul class="cv-entries">
+      {% for e in site.data.cv.experience %}
+      <li>
+        <strong>{{ e.institution }}</strong>
+        <ul class="cv-roles">
+          {% for r in e.roles %}
+          <li>{{ r.title }} <span class="dates">{{ r.dates }}</span></li>
+          {% endfor %}
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2>{{ cs.grants }}</h2>
+    <ul class="citation-list">
+      {% for a in site.data.awards.grants %}<li>{{ a.citation }}</li>{% endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2>{{ cs.prizes }}</h2>
+    <ul class="citation-list">
+      {% for a in site.data.awards.prizes %}<li>{{ a.citation }}</li>{% endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2>{{ cs.continuing_education }}</h2>
+    <ul class="citation-list">
+      {% for a in site.data.awards.continuing_education %}<li>{{ a.citation }}</li>{% endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2>{{ cs.affiliations }}</h2>
+    <ul class="citation-list">
+      {% for a in site.data.awards.affiliations %}<li>{{ a.citation }}</li>{% endfor %}
+    </ul>
+  </section>
+</article>

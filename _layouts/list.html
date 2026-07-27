@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="page list-page">
+  <h1>{{ page.title }}</h1>
+  {% if page.show_note %}<p class="note">{{ site.data.strings[page.lang].note_original_language }}</p>{% endif %}
+  {{ content }}
+  {% assign data = site.data[page.data_source] %}
+  {% assign strings = site.data.strings[page.lang][page.data_source] %}
+  {% for section in page.sections %}
+    {% assign items = data[section] %}
+    {% if items and items.size > 0 %}
+    <section class="cv-section">
+      <h2>{{ strings[section] }}</h2>
+      <ul class="citation-list">
+        {% for item in items %}
+        <li>{{ item.citation }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+  {% endfor %}
+</article>
