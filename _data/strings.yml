@@ -1,0 +1,81 @@
+es:
+  nav:
+    about: Inicio
+    publications: Publicaciones
+    talks: Charlas y medios
+    teaching: Docencia
+    cv: CV
+    contact: Contacto
+  lang_switch: English
+  lang_switch_url_prefix: /en
+  download_cv: Descargar CV (PDF)
+  note_original_language: "Las entradas se listan en su idioma original de publicación."
+  publications:
+    peer_reviewed: Artículos dictaminados
+    non_peer_reviewed: Artículos no dictaminados
+    book_chapters: Capítulos de libro
+    academic_reviews: Reseñas académicas
+    civil_society_reports: Reportes de sociedad civil
+    amicus: Amicus curiae y notas técnicas
+    public_writing: Escritura pública (columnas de opinión y reseñas)
+  talks:
+    conferences: Conferencias y presentaciones
+    media: Apariciones en medios
+    events: Eventos (moderación, paneles, comentarios)
+  teaching:
+    current: Docencia actual
+    guest_classes: Clases (en calidad de invitado)
+    workshops: Talleres (en calidad de facilitador)
+  cv:
+    education: Educación
+    experience: Experiencia profesional
+    grants: Becas y apoyos educativos
+    prizes: Premios
+    continuing_education: Educación continua
+    affiliations: Afiliaciones y otros
+    advisor: "Asesor"
+  contact:
+    heading: Contacto
+    email: Correo
+    intro: "La mejor forma de contactarme es por correo electrónico."
+
+en:
+  nav:
+    about: Home
+    publications: Publications
+    talks: Talks & Media
+    teaching: Teaching
+    cv: CV
+    contact: Contact
+  lang_switch: Español
+  lang_switch_url_prefix: ""
+  download_cv: Download CV (PDF)
+  note_original_language: "Entries are listed in the original language of publication."
+  publications:
+    peer_reviewed: Peer-reviewed articles
+    non_peer_reviewed: Non peer-reviewed articles
+    book_chapters: Book chapters
+    academic_reviews: Academic reviews
+    civil_society_reports: Civil society reports
+    amicus: Amicus briefs and technical notes
+    public_writing: Public writing (opinion columns and reviews)
+  talks:
+    conferences: Conferences and presentations
+    media: Media appearances
+    events: Events (moderator, panelist, commentator)
+  teaching:
+    current: Current teaching
+    guest_classes: Guest lectures
+    workshops: Workshops (as facilitator)
+  cv:
+    education: Education
+    experience: Professional experience
+    grants: Grants and educational support
+    prizes: Prizes
+    continuing_education: Continuing education
+    affiliations: Affiliations and other
+    advisor: "Advisor"
+  contact:
+    heading: Contact
+    email: Email
+    intro: "The best way to reach me is by email."

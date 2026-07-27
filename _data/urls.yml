@@ -1,0 +1,14 @@
+es:
+  about: /
+  publications: /publicaciones/
+  talks: /charlas/
+  teaching: /docencia/
+  cv: /cv/
+  contact: /contacto/
+en:
+  about: /en/
+  publications: /en/publications/
+  talks: /en/talks/
+  teaching: /en/teaching/
+  cv: /en/cv/
+  contact: /en/contact/

@@ -1,0 +1,88 @@
+education:
+  - institution: "Universidad de los Andes, Colombia"
+    degree: "Doctorado en Derecho"
+    dates: "2025 -- en curso"
+    advisor: "Dr. Fernando León Tamayo Arboleda"
+  - institution: "Centro de Investigación y Docencia Económicas (CIDE), México"
+    degree: "Licenciatura en Política Pública (Mención honorífica)"
+    dates: "2015 - 2019"
+    notes:
+      - "Intercambio en Universidad de los Andes (Colombia)."
+      - 'Tesis: "Los cuerpos de las sentencias: La construcción del hombre criminal en juicios de delitos de drogas".'
+      - "Mejor promedio de la generación."
+
+experience:
+  - institution: "Universidad de Los Andes, Colombia"
+    roles:
+      - title: "Asistente Graduado Doctoral Docencia"
+        dates: "Enero 2026 -- en curso"
+  - institution: "Center for Reproductive Rights, EE. UU."
+    roles:
+      - title: "Coordinador de la iniciativa Co-Impact con GIRE"
+        dates: "Marzo 2026 -- en curso"
+  - institution: "Grupo de Información en Reproducción Elegida (GIRE), México"
+    roles:
+      - title: "Consultor en Financiamiento"
+        dates: "Agosto 2025 -- en curso"
+      - title: "Responsable de Movilización de Fondos"
+        dates: "Junio 2024 -- Julio 2025"
+      - title: "Oficial de Desarrollo Institucional"
+        dates: "Julio 2022 -- Junio 2024"
+  - institution: "Universidad de Essex, Reino Unido"
+    roles:
+      - title: "Investigador externo sobre reforma de política de drogas"
+        dates: "Julio 2025 -- en curso"
+  - institution: "Centro de Estudios Legales y Sociales (CELS), Argentina"
+    roles:
+      - title: "Consultor sobre encarcelamiento y mujeres"
+        dates: "Marzo 2025 -- Mayo 2026"
+      - title: "Consultor sobre interseccionalidad y derecho a la protesta"
+        dates: "Junio 2024 -- Marzo 2025"
+      - title: "Consultor sobre transfeminismo y derecho a la protesta"
+        dates: "Enero -- Junio 2022"
+  - institution: "La Mesa por la Vida y Salud de las Mujeres, Colombia"
+    roles:
+      - title: "Consultor sobre estrategias de acción para el financiamiento"
+        dates: "Octubre -- Noviembre 2025"
+  - institution: "Red Lésbica Cattraschas, Honduras"
+    roles:
+      - title: "Consultor sobre personas LGBT y sistema penitenciario"
+        dates: "Julio 2024"
+  - institution: "Suprema Corte de Justicia de la Nación (SCJN), México"
+    roles:
+      - title: "Consultor sobre personas LGBT y sistema penitenciario"
+        dates: "Abril -- Junio 2024"
+  - institution: "Red de Litigantes LGBT de las Américas y Red Sin Violencia"
+    roles:
+      - title: "Consultor sobre personas LGBT y sistemas de justicia penal"
+        dates: "Mayo -- Septiembre 2022"
+  - institution: "Equis Justicia para las Mujeres, México"
+    roles:
+      - title: "Oficial en Políticas Públicas"
+        dates: "Enero 2020 -- Junio 2022"
+      - title: "Pasante"
+        dates: "Julio -- Agosto 2018"
+  - institution: "Cultivando Género, México"
+    roles:
+      - title: "Consultor sobre metodologías de investigación"
+        dates: "Enero -- Diciembre 2021"
+  - institution: "Catalyst: Rethinking the Americas"
+    roles:
+      - title: "Director Ejecutivo"
+        dates: "Noviembre 2019 -- Julio 2021"
+      - title: "Asistente de la Dirección"
+        dates: "Junio -- Julio 2019"
+  - institution: "Centro de Estudios de Derecho, Justicia y Sociedad (Dejusticia), Colombia"
+    roles:
+      - title: "Investigador visitante en Género"
+        dates: "Agosto -- Diciembre 2019"
+  - institution: "CIDE, México"
+    roles:
+      - title: "Asistente de Investigación en el Área de Derechos Sexuales y Reproductivos"
+        dates: "Agosto 2017 -- 2019"
+      - title: "Asistente de Investigación en la División de Administración Pública"
+        dates: "Julio 2016 -- Junio 2017"
+  - institution: "Centro de Cooperación Regional para la Educación de Adultos en LATAM, México"
+    roles:
+      - title: "Asistente de Investigación"
+        dates: "Junio -- Agosto 2017"
