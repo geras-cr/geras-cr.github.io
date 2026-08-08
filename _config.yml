@@ -2,10 +2,10 @@
 # Site configuration
 #
 
-name: Gerardo Contreras Ruvalcaba
+name: Geras Contreras
 description:
-  es: "Doctorando en Derecho | Género, sexualidad y política de drogas"
-  en: "PhD candidate in Law | Gender, sexuality and drug policy"
+  es: "Doctorando en Derecho | Feminismo, cárceles y justicia"
+  en: "PhD candidate in Law | Feminism, prisons and justice"
 
 url: "https://geras-cr.github.io"
 baseurl: ""
