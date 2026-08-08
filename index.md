@@ -8,12 +8,12 @@ alt_url: /en/
 
 <img src="{{ '/assets/images/headshot.jpeg' | relative_url }}" alt="Gerardo Contreras Ruvalcaba" class="headshot">
 
-Soy candidato a doctor en Derecho en la **Universidad de los Andes** (Colombia), bajo la asesoría del Dr. Fernando León Tamayo Arboleda. Antes, estudié la Licenciatura en Política Pública en el **Centro de Investigación y Docencia Económicas (CIDE, México)**, con mención honorífica y el mejor promedio de mi generación.
+Soy una activista feminista y, desde julio de 2025, doctorante en la Facultad de Derecho de la **Universidad de los Andes**, en Colombia. Estudié Políticas Públicas en el Centro de Investigación y Docencia Económicas (CIDE), en México. Actualmente, soy asistente graduado doctoral y colaboro con el Grupo de Información en Reproducción Elegida (GIRE), CEA Justicia Social y la corporación Mujeres Libres.
 
-Actualmente soy asistente graduado doctoral en la Universidad de los Andes, coordino la iniciativa Co-Impact entre el **Center for Reproductive Rights** y **GIRE**, soy consultor en financiamiento para el **Grupo de Información en Reproducción Elegida (GIRE)**, e investigador externo sobre reforma de política de drogas en la **Universidad de Essex** (Reino Unido).
+Mi investigación explora las relaciones del cuerpo, violencia y Estado desde los feminismos queer y anticarcelarios. Entre mis proyectos recientes, he estudiado los impactos de las reformas antidiscriminación en la población LGBT y los discursos judiciales alrededor de la tortura. Hasta el momento, mi proyecto doctoral está dirigido a cuestionar cómo las estrategias de liberación de mujeres privadas de la libertad transforman o crean derecho penitenciario. 
 
-Mi trabajo académico y de incidencia se concentra en género, sexualidad, personas trans, política de drogas y encarcelamiento en América Latina. He sido consultor para organizaciones como el Centro de Estudios Legales y Sociales (CELS), la Suprema Corte de Justicia de la Nación de México, Dejusticia y Equis Justicia para las Mujeres, entre otras.
+También cuento con una amplia experiencia colaborando con organizaciones de la sociedad civil en estrategias de recaudación de fondos, incidencia frente a organismos internacionales e investigación. Algunas de las organizaciones con las que he trabajado en el pasado son EQUIS Justicia para las Mujeres (en México), Dejusticia (en Colombia) y CELS (en Argentina). Siempre estoy interesada en apoyar colectivos a diseñar proyectos de investigación, facilitar espacios de planificación y construir estrategias exitosas de financiamiento.
 
-Mis publicaciones incluyen artículos dictaminados, capítulos de libro, reportes de sociedad civil y escritura pública en medios como *Animal Político* y *Nexos*. También he participado como panelista, comentarista y moderador en foros, seminarios y conferencias internacionales sobre derechos humanos, género y política de drogas.
+Mis publicaciones incluyen artículos dictaminados, capítulos de libro, reportes de sociedad civil y columnas en medios, como *Animal Político* y *Volcánicas*. También he participado como panelista, comentarista y moderador en foros, seminarios y conferencias internacionales sobre derechos humanos, género y política de drogas.
 
 Puedes ver mi [trayectoria completa en el CV](/cv/), revisar mis [publicaciones](/publicaciones/), o [escribirme](/contacto/).
